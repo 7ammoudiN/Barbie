@@ -1,0 +1,11 @@
+h1 {
+    text-align: center ;
+}
+ul {
+    background-color: gray;
+    border: 1px ;
+}
+li {
+    color: green ;
+    font-weight: bold ;
+}
